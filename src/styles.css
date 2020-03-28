@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css?family=Sen");
+
+body {
+  background: rgb(158, 237, 255);
+  font-family: "Sen";
+  margin: 0 !important;
+  font-size: 16px;
+}
+a,
+a:hover,
+a:focus,
+a:visited {
+  text-decoration: none;
+  color: inherit;
+  font-style: italic;
+}
