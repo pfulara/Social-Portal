@@ -1,1 +1,7 @@
-# Social-Portal
+# Social Portal
+## Check app
+- 
+## Stack
+- React
+- Material UI
+- firebase
